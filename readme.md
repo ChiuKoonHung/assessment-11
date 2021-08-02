@@ -9,6 +9,8 @@ You should:
 1. Let the data available give you idea on what to build
 1. Attempt it
 
+No code base is provided in this assessment. You are to set up the project.
+
 ## Submission Guidelines
 
 - Cite any relevant sources consulted during your research
